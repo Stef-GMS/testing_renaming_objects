@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testingrenamingobjects/testing_here/my_home_page.dart';
+import 'package:testingrenamingobjects/testing_here/my_home_page_rename3.dart';
 
 void main() {
   runApp(MyApp());
